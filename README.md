@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m nost proud of [AudioFly - soptify clone](https://github.com/Noamzil/AudioFly.git)
 
-  - 🔭 Check My Website [netflix-clone](https://eliorpapo.github.io/netflix-clone/)
+- 🔭 Check My Website [netflix-clone](https://eliorpapo.github.io/netflix-clone/)
 
 - 🌱 another project im proud of [gerich-restaurant](https://eliorpapo.github.io/gerich-restaurant/)
 
